@@ -1,0 +1,9 @@
+{
+  "name": "angular-shapeshift",
+  "version": "0.2.3",
+  "main": "angular-shapeshift.js",
+  "dependencies": {
+    "angular": "~1.4",
+    "jquery.shapeshift": "~2.0.0"
+  }
+}

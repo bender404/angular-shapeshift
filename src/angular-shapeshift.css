@@ -1,0 +1,22 @@
+ng-shape {
+	position: relative;
+	border: 1px dashed rgba(0, 0, 0, .4);
+	display: block;	
+	margin-bottom: 50px;
+}
+
+ng-shape .ss-placeholder-child {
+    background: rgba(0, 0, 0, .05) !important;
+}
+
+ng-shape > div {
+	width: 100px;
+	background-color: lightgreen;
+	position: absolute;
+	text-align: center;
+	cursor: pointer;
+}
+
+ng-shape {
+	background: rgba(0, 0, 0, .1) !important;	
+}
