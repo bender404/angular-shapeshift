@@ -22,7 +22,7 @@ Add the ngShape module as a dependency to your application module:
 var myAppModule = angular.module('MyApp', ['ngShape'])
 ```
 
-Apply the directive to your form elements:
+Apply the directive:
 
 ```html
 <ng-shape ng-model="items" options="conf"></ng-shape>
