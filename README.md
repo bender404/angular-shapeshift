@@ -16,10 +16,10 @@ Load the script file: angular-shapeshift.js in your application:
 <script type="text/javascript" src="src/angular-shapeshift.js"></script>
 ```
 
-Add the ngShape module as a dependency to your application module:
+Add the shapeshift module as a dependency to your application module:
 
 ```js
-var myAppModule = angular.module('MyApp', ['ngShape'])
+var myAppModule = angular.module('MyApp', ['shapeshift'])
 ```
 
 Apply the directive:
